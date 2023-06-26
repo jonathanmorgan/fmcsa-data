@@ -83,10 +83,9 @@ def main():
 
     #check entires that already exist in the database
     query = f"""
-    SELECT carrier_id, date_pulled from cargo 
+        SELECT carrier_id, date_pulled from cargo 
     """
     already_scraped = pd.read_sql(text(query), con = ENGINE)
-    already_scraped.tail(4)
 
     #create a subselection, not scraped already
     FMCSA_SUB = FMCSA_DF[~FMCSA_DF['DOT_NUMBER'].isin(already_scraped['carrier_id'])].reset_index()

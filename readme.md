@@ -25,6 +25,10 @@ This task calls for
 - For some reason docker does not show any of the print message with docker-compose-wait
 - Test more cases!! Only went through 5k entries. I am sure there are issues like the on mentioned.
 
+### How to convert to this script so it run from csvs instead
+
+Having a database might be "overkill". To convert the script to run from csvs `cargo` and `vehicles` rows can be written into `{carrier_id}_{date_pulled}.csv` using pd.to_csv instead of pd.to_sql. A list of file names can be pulled using glob.glob('*.csv') or pathlib to replace already_scraped dataframe.
+
 ## Run
 
 ### If you are using Docker
