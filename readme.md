@@ -33,7 +33,7 @@ This task calls for
 
 ### If you are using python
 
-- Have a postgres instance on port 5432 instance and edit the `.env` file with username, password, database name, and set `HOST` to localhost or your server
+- Have a postgres instance on port 5432 and edit the `.env` file with username, password, database name, and set `HOST` to localhost or ip your server
 - Python 3 installed create a new enviormenet `conda create -n fmcsa python=3.8`  and `conda activate fmcsa`
 - Run `pip install -r requirements.txt` or `pip install pandas beautifulsoup4 psycopg2 SQLAlchemy python-dotenv lxml`
 - Run `python app.py`
