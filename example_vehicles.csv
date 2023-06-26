@@ -1,0 +1,679 @@
+"carrier_id","type","date_pulled","owned","term_leased","trip_leased"
+1,Truck Tractors,"5/26/2023",3,0,0
+1,Trailers*,"5/26/2023",3,0,0
+1,Motor Coach,"5/26/2023",1,0,0
+10000,Hazmat Cargo Tank Trailers*,"5/26/2023",1,0,0
+10000,Hazmat Cargo Tank Trucks,"5/26/2023",1,0,0
+1000000,Straight Trucks,"5/26/2023",1,0,0
+1000000,Trailers*,"5/26/2023",1,0,0
+1000002,Straight Trucks,"5/26/2023",1,0,0
+1000002,Trailers*,"5/26/2023",1,0,0
+1000004,Truck Tractors,"5/26/2023",2,0,0
+1000004,Trailers*,"5/26/2023",0,0,1
+1000008,Straight Trucks,"5/26/2023",4,0,0
+1000012,Straight Trucks,"5/26/2023",24,0,0
+1000012,Trailers*,"5/26/2023",8,0,0
+1000013,Trailers*,"5/26/2023",1,0,0
+1000013,School Bus 16+,"5/26/2023",58,0,0
+1000013,Mini-Bus 16+,"5/26/2023",20,0,0
+1000013,Van 1-8*,"5/26/2023",5,0,0
+1000014,Straight Trucks,"5/26/2023",1,0,0
+1000015,Straight Trucks,"5/26/2023",1,0,0
+1000017,Straight Trucks,"5/26/2023",13,0,0
+100002,Truck Tractors,"5/26/2023",22,23,0
+1000021,Straight Trucks,"5/26/2023",1,0,0
+1000021,Trailers*,"5/26/2023",1,0,0
+1000022,Straight Trucks,"5/26/2023",1,0,0
+1000023,Straight Trucks,"5/26/2023",1,0,0
+1000025,Straight Trucks,"5/26/2023",1,0,0
+1000030,Straight Trucks,"5/26/2023",4,0,0
+1000030,Truck Tractors,"5/26/2023",3,0,0
+1000030,Trailers*,"5/26/2023",3,0,0
+1000035,Straight Trucks,"5/26/2023",5,0,0
+1000035,Truck Tractors,"5/26/2023",7,0,0
+1000035,Trailers*,"5/26/2023",14,0,0
+1000050,Straight Trucks,"5/26/2023",1,0,0
+1000058,Straight Trucks,"5/26/2023",0,2,0
+1000058,Truck Tractors,"5/26/2023",1,20,0
+1000058,Trailers*,"5/26/2023",43,0,0
+1000061,Straight Trucks,"5/26/2023",2,0,0
+1000062,Truck Tractors,"5/26/2023",1,0,0
+1000062,Trailers*,"5/26/2023",1,0,0
+1000066,Truck Tractors,"5/26/2023",6,0,0
+1000066,Trailers*,"5/26/2023",8,0,0
+1000076,Straight Trucks,"5/26/2023",1,0,0
+1000076,Trailers*,"5/26/2023",1,0,0
+1000077,Truck Tractors,"5/26/2023",2,0,0
+1000077,Trailers*,"5/26/2023",2,0,0
+1000078,Straight Trucks,"5/26/2023",1,0,0
+1000079,Truck Tractors,"5/26/2023",18,0,0
+1000079,Trailers*,"5/26/2023",63,0,0
+100008,Straight Trucks,"5/26/2023",1,0,0
+100008,Truck Tractors,"5/26/2023",1,0,0
+100008,Trailers*,"5/26/2023",1,0,0
+1000080,Straight Trucks,"5/26/2023",1,0,0
+1000081,Truck Tractors,"5/26/2023",1,0,0
+1000081,Trailers*,"5/26/2023",1,0,0
+1000093,Truck Tractors,"5/26/2023",1,0,0
+1000095,Straight Trucks,"5/26/2023",1,0,0
+1000096,Straight Trucks,"5/26/2023",0,1,0
+1000098,Straight Trucks,"5/26/2023",1,0,0
+1000099,Straight Trucks,"5/26/2023",2,0,0
+1000099,Truck Tractors,"5/26/2023",1,0,0
+1000099,Trailers*,"5/26/2023",1,0,0
+1000101,Straight Trucks,"5/26/2023",1,0,0
+1000102,Straight Trucks,"5/26/2023",2,0,0
+1000102,Truck Tractors,"5/26/2023",1,0,0
+1000102,Trailers*,"5/26/2023",3,0,0
+1000105,Truck Tractors,"5/26/2023",1,0,0
+1000105,Trailers*,"5/26/2023",1,0,0
+1000109,Truck Tractors,"5/26/2023",1,0,0
+1000109,Trailers*,"5/26/2023",1,0,0
+100011,Straight Trucks,"5/26/2023",0,1,0
+100011,Truck Tractors,"5/26/2023",12,77,0
+100011,Trailers*,"5/26/2023",91,4,0
+100011,Hazmat Cargo Tank Trailers*,"5/26/2023",151,91,0
+1000119,Straight Trucks,"5/26/2023",1,0,0
+1000120,Straight Trucks,"5/26/2023",2,0,0
+1000120,Trailers*,"5/26/2023",2,0,0
+1000122,Straight Trucks,"5/26/2023",2,0,0
+1000122,Trailers*,"5/26/2023",2,0,0
+1000123,Straight Trucks,"5/26/2023",6,0,0
+1000129,Straight Trucks,"5/26/2023",1,0,0
+1000129,Trailers*,"5/26/2023",0,1,0
+1000130,Straight Trucks,"5/26/2023",1,0,0
+1000130,Truck Tractors,"5/26/2023",1,0,0
+1000130,Trailers*,"5/26/2023",1,0,0
+1000132,Truck Tractors,"5/26/2023",1,0,0
+1000133,Truck Tractors,"5/26/2023",1,0,0
+1000133,Trailers*,"5/26/2023",1,0,0
+1000139,Truck Tractors,"5/26/2023",1,0,0
+1000139,Trailers*,"5/26/2023",1,0,0
+1000140,Straight Trucks,"5/26/2023",2,0,0
+1000143,Straight Trucks,"5/26/2023",10,0,0
+1000144,Straight Trucks,"5/26/2023",2,0,0
+1000147,Straight Trucks,"5/26/2023",5,0,0
+1000149,Truck Tractors,"5/26/2023",3,0,0
+1000149,Trailers*,"5/26/2023",3,0,0
+1000155,Straight Trucks,"5/26/2023",8,0,0
+1000156,Truck Tractors,"5/26/2023",1,0,0
+1000156,Trailers*,"5/26/2023",3,0,0
+1000158,Truck Tractors,"5/26/2023",1,0,0
+1000158,Trailers*,"5/26/2023",1,0,0
+1000165,Straight Trucks,"5/26/2023",1,0,0
+1000169,Straight Trucks,"5/26/2023",2,0,0
+1000169,Trailers*,"5/26/2023",1,0,0
+1000171,Straight Trucks,"5/26/2023",1,0,0
+1000172,Straight Trucks,"5/26/2023",5,0,0
+1000172,Truck Tractors,"5/26/2023",1,0,0
+1000172,Trailers*,"5/26/2023",1,0,0
+1000174,Straight Trucks,"5/26/2023",1,0,0
+1000178,Straight Trucks,"5/26/2023",2,0,0
+1000963,Trailers*,"5/26/2023",0,2,0
+100018,Straight Trucks,"5/26/2023",2,0,0
+1000180,Straight Trucks,"5/26/2023",1,0,0
+1000180,Truck Tractors,"5/26/2023",1,0,0
+1000180,Trailers*,"5/26/2023",2,0,0
+1000181,Truck Tractors,"5/26/2023",1,0,0
+1000181,Trailers*,"5/26/2023",2,0,0
+1000182,Truck Tractors,"5/26/2023",5,0,0
+1000182,Trailers*,"5/26/2023",6,0,0
+1000184,Truck Tractors,"5/26/2023",1,0,0
+1000184,Trailers*,"5/26/2023",1,0,0
+1000185,Straight Trucks,"5/26/2023",12,12,0
+1000186,Truck Tractors,"5/26/2023",1,0,0
+1000186,Trailers*,"5/26/2023",1,0,0
+1000187,Straight Trucks,"5/26/2023",1,0,0
+1000188,Straight Trucks,"5/26/2023",1,0,0
+1000189,Truck Tractors,"5/26/2023",1,0,0
+1000189,Trailers*,"5/26/2023",1,0,0
+1000191,Truck Tractors,"5/26/2023",0,1,0
+1000191,Hazmat Cargo Tank Trailers*,"5/26/2023",1,0,0
+1000194,Truck Tractors,"5/26/2023",3,0,0
+1000194,Trailers*,"5/26/2023",1,0,0
+1000196,Truck Tractors,"5/26/2023",2,6,0
+1000196,Trailers*,"5/26/2023",6,7,0
+1000198,Straight Trucks,"5/26/2023",1,0,0
+1000201,Truck Tractors,"5/26/2023",1,0,0
+1000201,Trailers*,"5/26/2023",8,0,0
+1000204,Truck Tractors,"5/26/2023",2,0,0
+1000204,Trailers*,"5/26/2023",2,0,0
+1000207,Straight Trucks,"5/26/2023",5,0,0
+1000209,Truck Tractors,"5/26/2023",1,0,0
+1000209,Trailers*,"5/26/2023",0,1,0
+1000210,Straight Trucks,"5/26/2023",2,0,0
+1000211,Straight Trucks,"5/26/2023",10,13,0
+1000211,Truck Tractors,"5/26/2023",1,0,0
+1000211,Trailers*,"5/26/2023",21,0,0
+1000214,Straight Trucks,"5/26/2023",1,0,0
+1000215,Truck Tractors,"5/26/2023",2,0,0
+1000215,Trailers*,"5/26/2023",9,0,0
+1000216,Truck Tractors,"5/26/2023",1,0,0
+1000216,Trailers*,"5/26/2023",1,0,0
+1000218,Straight Trucks,"5/26/2023",10,0,0
+1000219,Straight Trucks,"5/26/2023",1,0,0
+100022,Truck Tractors,"5/26/2023",0,11,0
+100022,Trailers*,"5/26/2023",111,53,0
+1000222,Straight Trucks,"5/26/2023",1,0,0
+1000222,Trailers*,"5/26/2023",1,0,0
+1000226,Straight Trucks,"5/26/2023",2,0,0
+1000229,Truck Tractors,"5/26/2023",1,0,0
+1000229,Trailers*,"5/26/2023",1,0,0
+1000230,Straight Trucks,"5/26/2023",1,0,0
+1000231,Straight Trucks,"5/26/2023",1,0,0
+1000233,Straight Trucks,"5/26/2023",10,0,0
+1000233,Truck Tractors,"5/26/2023",1,0,0
+1000233,Trailers*,"5/26/2023",1,0,0
+1000235,Straight Trucks,"5/26/2023",35,12,0
+1000235,Trailers*,"5/26/2023",14,0,0
+1000238,Straight Trucks,"5/26/2023",0,4,0
+1000246,Straight Trucks,"5/26/2023",1,0,0
+1000246,Truck Tractors,"5/26/2023",3,0,0
+1000246,Trailers*,"5/26/2023",8,0,0
+1000246,Hazmat Cargo Tank Trucks,"5/26/2023",1,0,0
+1000249,Straight Trucks,"5/26/2023",5,0,0
+1000249,Trailers*,"5/26/2023",1,0,0
+1000252,Straight Trucks,"5/26/2023",1,0,0
+1000252,Trailers*,"5/26/2023",1,0,0
+1000254,Straight Trucks,"5/26/2023",3,0,0
+1000255,Straight Trucks,"5/26/2023",1,0,0
+1000255,Trailers*,"5/26/2023",1,0,0
+1000258,Straight Trucks,"5/26/2023",0,2,0
+1000261,Straight Trucks,"5/26/2023",1,0,0
+1000262,Straight Trucks,"5/26/2023",4,0,0
+1000262,Trailers*,"5/26/2023",1,0,0
+1000262,Van 1-8*,"5/26/2023",1,0,0
+1000263,Straight Trucks,"5/26/2023",1,0,0
+1000263,Trailers*,"5/26/2023",1,0,0
+1000264,Straight Trucks,"5/26/2023",2,0,0
+1000264,Trailers*,"5/26/2023",1,0,0
+1000266,Straight Trucks,"5/26/2023",4,0,0
+1000266,Truck Tractors,"5/26/2023",2,0,0
+1000266,Trailers*,"5/26/2023",2,0,0
+1000267,Straight Trucks,"5/26/2023",4,0,0
+1000268,Straight Trucks,"5/26/2023",1,0,0
+1000273,Straight Trucks,"5/26/2023",9,0,0
+1000279,Truck Tractors,"5/26/2023",1,0,0
+1000283,Straight Trucks,"5/26/2023",1,0,0
+1000283,Trailers*,"5/26/2023",1,0,0
+1000286,Straight Trucks,"5/26/2023",1,0,0
+1000288,Truck Tractors,"5/26/2023",1,0,0
+1000292,Straight Trucks,"5/26/2023",14,0,0
+1000292,Truck Tractors,"5/26/2023",3,0,0
+1000292,Trailers*,"5/26/2023",5,0,0
+1000294,Straight Trucks,"5/26/2023",1,0,0
+1000295,Straight Trucks,"5/26/2023",2,0,0
+1000297,Straight Trucks,"5/26/2023",2,0,0
+1000297,Trailers*,"5/26/2023",1,0,0
+1000299,Straight Trucks,"5/26/2023",4,0,0
+1000300,Straight Trucks,"5/26/2023",1,0,0
+1000301,Straight Trucks,"5/26/2023",3,0,0
+1000301,Truck Tractors,"5/26/2023",3,0,0
+1000301,Trailers*,"5/26/2023",6,0,0
+1000302,Straight Trucks,"5/26/2023",1,0,0
+1000305,Truck Tractors,"5/26/2023",1,0,0
+1000305,Trailers*,"5/26/2023",1,0,0
+1000312,Straight Trucks,"5/26/2023",3,0,0
+1000312,Trailers*,"5/26/2023",2,0,0
+1000316,Straight Trucks,"5/26/2023",1,0,0
+100032,Straight Trucks,"5/26/2023",1,0,0
+1000320,Straight Trucks,"5/26/2023",5,0,0
+1000320,Truck Tractors,"5/26/2023",1,0,0
+1000320,Trailers*,"5/26/2023",1,0,0
+1000321,Truck Tractors,"5/26/2023",1,0,0
+1000321,Trailers*,"5/26/2023",1,0,0
+1000324,Truck Tractors,"5/26/2023",2,0,0
+1000324,Trailers*,"5/26/2023",4,0,0
+1000325,Straight Trucks,"5/26/2023",1,0,0
+1000325,Trailers*,"5/26/2023",1,0,0
+1000329,Straight Trucks,"5/26/2023",1,0,0
+1000333,Truck Tractors,"5/26/2023",2,0,0
+1000333,Trailers*,"5/26/2023",2,0,0
+1000334,Straight Trucks,"5/26/2023",3,0,0
+1000336,Straight Trucks,"5/26/2023",1,0,0
+1000336,Trailers*,"5/26/2023",1,0,0
+1000338,Straight Trucks,"5/26/2023",8,0,0
+1000338,Truck Tractors,"5/26/2023",2,0,0
+1000338,Trailers*,"5/26/2023",8,0,0
+1000341,Straight Trucks,"5/26/2023",1,0,0
+1000341,Trailers*,"5/26/2023",1,0,0
+1000342,Truck Tractors,"5/26/2023",1,0,0
+1000342,Trailers*,"5/26/2023",1,0,0
+1000346,Straight Trucks,"5/26/2023",2,0,0
+1000347,Truck Tractors,"5/26/2023",2,0,0
+1000347,Trailers*,"5/26/2023",2,0,0
+1000349,Straight Trucks,"5/26/2023",1,0,0
+1000350,Straight Trucks,"5/26/2023",2,0,0
+1000356,Truck Tractors,"5/26/2023",2,0,0
+1000356,Trailers*,"5/26/2023",7,0,0
+1000357,Straight Trucks,"5/26/2023",1,0,0
+1000364,Truck Tractors,"5/26/2023",1,0,0
+1000364,Trailers*,"5/26/2023",1,0,0
+1000368,Truck Tractors,"5/26/2023",1,0,0
+1000369,Truck Tractors,"5/26/2023",1,0,0
+1000369,Trailers*,"5/26/2023",2,0,0
+1000370,Straight Trucks,"5/26/2023",1,0,0
+1000370,Trailers*,"5/26/2023",1,0,0
+1000371,Straight Trucks,"5/26/2023",6,0,0
+1000371,Truck Tractors,"5/26/2023",1,0,0
+1000371,Trailers*,"5/26/2023",5,0,0
+1000373,Truck Tractors,"5/26/2023",1,0,0
+1000373,Trailers*,"5/26/2023",1,0,0
+1000375,Straight Trucks,"5/26/2023",2,0,0
+1000377,Straight Trucks,"5/26/2023",4,0,0
+1000377,Trailers*,"5/26/2023",3,0,0
+1000377,Hazmat Cargo Tank Trucks,"5/26/2023",1,0,0
+100038,Straight Trucks,"5/26/2023",3,0,0
+100038,Trailers*,"5/26/2023",1,0,0
+1000380,Truck Tractors,"5/26/2023",2,0,0
+1000384,Straight Trucks,"5/26/2023",7,0,0
+1000384,Trailers*,"5/26/2023",2,0,0
+1000386,Hazmat Cargo Tank Trucks,"5/26/2023",4,0,0
+1000388,Straight Trucks,"5/26/2023",2,0,0
+1000388,Trailers*,"5/26/2023",1,0,0
+1000391,Straight Trucks,"5/26/2023",14,0,0
+1000394,Straight Trucks,"5/26/2023",5,0,0
+1000395,Straight Trucks,"5/26/2023",1,1,0
+1000400,Straight Trucks,"5/26/2023",4,0,0
+1000408,Truck Tractors,"5/26/2023",3,0,0
+1000408,Trailers*,"5/26/2023",3,0,0
+1000410,Truck Tractors,"5/26/2023",2,0,0
+1000410,Trailers*,"5/26/2023",3,0,0
+1000412,Straight Trucks,"5/26/2023",2,0,0
+1000414,Straight Trucks,"5/26/2023",9,0,0
+1000417,Straight Trucks,"5/26/2023",6,0,0
+1000417,Truck Tractors,"5/26/2023",3,0,0
+1000417,Trailers*,"5/26/2023",6,0,0
+1000419,Truck Tractors,"5/26/2023",3,0,0
+1000423,Straight Trucks,"5/26/2023",0,0,1
+1000427,Straight Trucks,"5/26/2023",1,0,0
+1000427,Trailers*,"5/26/2023",1,0,0
+1000428,Straight Trucks,"5/26/2023",1,0,0
+1000429,Straight Trucks,"5/26/2023",1,0,0
+1000429,Truck Tractors,"5/26/2023",1,0,0
+1000429,Trailers*,"5/26/2023",1,0,0
+1000436,Straight Trucks,"5/26/2023",2,0,0
+1000436,Trailers*,"5/26/2023",2,0,0
+1000438,Straight Trucks,"5/26/2023",1,0,0
+1000439,Straight Trucks,"5/26/2023",5,0,0
+1000440,Truck Tractors,"5/26/2023",11,0,0
+1000440,Trailers*,"5/26/2023",15,0,0
+1000444,Straight Trucks,"5/26/2023",1,0,0
+1000446,Straight Trucks,"5/26/2023",2,0,0
+1000448,Straight Trucks,"5/26/2023",5,0,0
+1000448,Trailers*,"5/26/2023",4,0,0
+1000450,Straight Trucks,"5/26/2023",4,0,0
+1000452,Truck Tractors,"5/26/2023",1,0,0
+1000452,Trailers*,"5/26/2023",1,0,0
+1000453,Straight Trucks,"5/26/2023",1,0,0
+1000457,Straight Trucks,"5/26/2023",2,0,0
+1000457,Trailers*,"5/26/2023",1,0,0
+1000458,Straight Trucks,"5/26/2023",1,0,0
+1000460,Straight Trucks,"5/26/2023",3,0,0
+1000461,Truck Tractors,"5/26/2023",1,0,0
+1000461,Trailers*,"5/26/2023",1,0,0
+1000463,Straight Trucks,"5/26/2023",1,0,0
+1000463,Trailers*,"5/26/2023",1,0,0
+1000464,Truck Tractors,"5/26/2023",2,0,0
+1000465,Straight Trucks,"5/26/2023",1,0,0
+1000465,Truck Tractors,"5/26/2023",8,0,0
+1000465,Trailers*,"5/26/2023",9,0,0
+1000466,Truck Tractors,"5/26/2023",1,0,0
+1000466,Trailers*,"5/26/2023",1,0,0
+1000472,Truck Tractors,"5/26/2023",2,0,0
+1000472,Trailers*,"5/26/2023",1,0,0
+1000474,Straight Trucks,"5/26/2023",1,0,0
+1000484,Truck Tractors,"5/26/2023",1,0,0
+1000485,Straight Trucks,"5/26/2023",5,0,0
+1000486,Truck Tractors,"5/26/2023",6,0,0
+1000486,Trailers*,"5/26/2023",6,0,0
+1000488,Straight Trucks,"5/26/2023",1,0,0
+1000488,Trailers*,"5/26/2023",2,0,0
+1000491,Truck Tractors,"5/26/2023",2,0,0
+1000491,Hazmat Cargo Tank Trailers*,"5/26/2023",2,0,0
+1000491,Hazmat Cargo Tank Trucks,"5/26/2023",12,0,0
+1000493,Truck Tractors,"5/26/2023",2,1,0
+1000494,Straight Trucks,"5/26/2023",1,0,0
+1000495,Truck Tractors,"5/26/2023",1,0,0
+1000501,Straight Trucks,"5/26/2023",1,0,0
+1000504,Truck Tractors,"5/26/2023",6,0,0
+1000504,Trailers*,"5/26/2023",6,0,0
+1000506,Truck Tractors,"5/26/2023",1,0,0
+1000506,Trailers*,"5/26/2023",1,0,0
+1000508,Straight Trucks,"5/26/2023",8,0,0
+1000508,Trailers*,"5/26/2023",3,0,0
+1000513,Truck Tractors,"5/26/2023",4,0,0
+1000513,Trailers*,"5/26/2023",4,0,0
+1000514,Straight Trucks,"5/26/2023",1,0,0
+1000515,Truck Tractors,"5/26/2023",1,0,0
+1000515,Trailers*,"5/26/2023",1,0,0
+1000519,Straight Trucks,"5/26/2023",1,0,0
+1000521,Truck Tractors,"5/26/2023",1,0,0
+1000521,Trailers*,"5/26/2023",5,0,0
+1000523,Straight Trucks,"5/26/2023",2,0,0
+1000524,Straight Trucks,"5/26/2023",2,0,0
+1000527,Truck Tractors,"5/26/2023",1,0,0
+1000527,Trailers*,"5/26/2023",3,0,0
+1000528,Straight Trucks,"5/26/2023",6,0,0
+1000529,Straight Trucks,"5/26/2023",1,0,0
+1000529,Truck Tractors,"5/26/2023",6,0,0
+1000529,Trailers*,"5/26/2023",6,0,0
+1000530,Straight Trucks,"5/26/2023",4,0,0
+1000530,Truck Tractors,"5/26/2023",1,0,0
+1000530,Trailers*,"5/26/2023",4,0,0
+1000532,Truck Tractors,"5/26/2023",3,0,0
+1000532,Trailers*,"5/26/2023",4,0,0
+1000534,Straight Trucks,"5/26/2023",2,0,0
+1000534,Truck Tractors,"5/26/2023",1,0,0
+1000534,Trailers*,"5/26/2023",2,0,0
+1000535,Truck Tractors,"5/26/2023",1,0,0
+1000535,Trailers*,"5/26/2023",0,0,2
+1000536,Truck Tractors,"5/26/2023",3,2,0
+1000536,Trailers*,"5/26/2023",3,2,0
+1000539,Straight Trucks,"5/26/2023",1,6,0
+1000547,Straight Trucks,"5/26/2023",5,0,0
+1000547,Truck Tractors,"5/26/2023",1,0,0
+1000547,Trailers*,"5/26/2023",1,0,0
+1000548,Straight Trucks,"5/26/2023",2,0,0
+1000549,Straight Trucks,"5/26/2023",1,0,0
+1000549,Trailers*,"5/26/2023",1,0,0
+1000551,Truck Tractors,"5/26/2023",1,0,0
+1000551,Trailers*,"5/26/2023",1,0,0
+1000552,Straight Trucks,"5/26/2023",1,0,0
+1000552,Trailers*,"5/26/2023",1,0,0
+1000554,Straight Trucks,"5/26/2023",3,0,0
+1000556,Straight Trucks,"5/26/2023",3,0,0
+1000557,Straight Trucks,"5/26/2023",6,0,0
+1000559,Truck Tractors,"5/26/2023",2,0,0
+1000559,Trailers*,"5/26/2023",2,0,0
+1000562,Truck Tractors,"5/26/2023",5,0,0
+1000562,Trailers*,"5/26/2023",5,0,0
+1000564,Straight Trucks,"5/26/2023",4,0,0
+1000566,Straight Trucks,"5/26/2023",9,0,0
+1000567,Straight Trucks,"5/26/2023",1,0,0
+1000567,Trailers*,"5/26/2023",1,0,0
+1000570,Straight Trucks,"5/26/2023",1,0,0
+1000573,Straight Trucks,"5/26/2023",1,0,0
+1000574,Truck Tractors,"5/26/2023",1,0,0
+1000575,Truck Tractors,"5/26/2023",1,0,0
+1000575,Trailers*,"5/26/2023",2,0,0
+1000581,Truck Tractors,"5/26/2023",5,0,0
+1000591,Straight Trucks,"5/26/2023",1,0,0
+1000593,Straight Trucks,"5/26/2023",6,0,0
+1000593,Trailers*,"5/26/2023",6,0,0
+1000594,Truck Tractors,"5/26/2023",1,0,0
+1000594,Trailers*,"5/26/2023",1,0,0
+1000597,Truck Tractors,"5/26/2023",1,0,0
+1000597,Trailers*,"5/26/2023",1,0,0
+1000601,Straight Trucks,"5/26/2023",5,0,0
+1000603,Straight Trucks,"5/26/2023",1,0,0
+1000604,Truck Tractors,"5/26/2023",2,0,0
+1000604,Trailers*,"5/26/2023",2,0,0
+1000610,Straight Trucks,"5/26/2023",2,0,0
+1000610,Truck Tractors,"5/26/2023",6,0,0
+1000610,Trailers*,"5/26/2023",25,0,0
+1000611,Truck Tractors,"5/26/2023",1,0,0
+1000611,Trailers*,"5/26/2023",1,0,0
+1000612,Straight Trucks,"5/26/2023",1,0,0
+1000615,Straight Trucks,"5/26/2023",4,0,0
+1000617,Straight Trucks,"5/26/2023",3,0,0
+1000617,Truck Tractors,"5/26/2023",1,0,0
+1000617,Trailers*,"5/26/2023",2,0,0
+1000618,Straight Trucks,"5/26/2023",1,0,0
+1000618,Truck Tractors,"5/26/2023",3,0,0
+1000628,Straight Trucks,"5/26/2023",1,0,0
+1000629,Truck Tractors,"5/26/2023",12,0,0
+1000629,Trailers*,"5/26/2023",12,0,0
+1000630,Straight Trucks,"5/26/2023",3,0,0
+1000632,Straight Trucks,"5/26/2023",1,1,0
+1000635,Hazmat Cargo Tank Trucks,"5/26/2023",5,0,0
+1000636,Straight Trucks,"5/26/2023",7,0,0
+1000637,Straight Trucks,"5/26/2023",10,0,0
+1000638,Truck Tractors,"5/26/2023",3,0,0
+1000638,Trailers*,"5/26/2023",3,0,0
+1000639,Straight Trucks,"5/26/2023",1,0,0
+1000639,Trailers*,"5/26/2023",1,0,0
+1000646,Straight Trucks,"5/26/2023",1,0,0
+100065,Straight Trucks,"5/26/2023",4,0,0
+1000652,Truck Tractors,"5/26/2023",3,0,0
+1000652,Trailers*,"5/26/2023",1,0,0
+1000652,Hazmat Cargo Tank Trailers*,"5/26/2023",1,0,0
+1000652,Hazmat Cargo Tank Trucks,"5/26/2023",2,0,0
+1000655,Straight Trucks,"5/26/2023",1,0,0
+1000670,Truck Tractors,"5/26/2023",1,0,0
+1000670,Trailers*,"5/26/2023",2,0,0
+1000672,Straight Trucks,"5/26/2023",4,0,0
+1000672,Trailers*,"5/26/2023",2,0,0
+1000674,Straight Trucks,"5/26/2023",18,0,0
+1000674,Truck Tractors,"5/26/2023",3,0,0
+1000674,Trailers*,"5/26/2023",3,0,0
+1000677,Straight Trucks,"5/26/2023",2,0,0
+1000680,Straight Trucks,"5/26/2023",1,0,0
+1000680,Trailers*,"5/26/2023",1,0,0
+1000681,Straight Trucks,"5/26/2023",2,0,0
+1000702,Straight Trucks,"5/26/2023",2,0,0
+1000703,Straight Trucks,"5/26/2023",1,0,0
+1000706,Truck Tractors,"5/26/2023",1,0,0
+1000706,Trailers*,"5/26/2023",1,0,0
+1000708,Straight Trucks,"5/26/2023",12,0,0
+1000708,Trailers*,"5/26/2023",1,0,0
+1000709,Straight Trucks,"5/26/2023",2,0,0
+1000712,Straight Trucks,"5/26/2023",1,0,0
+1000712,Trailers*,"5/26/2023",1,0,0
+1000713,Straight Trucks,"5/26/2023",3,0,0
+1000715,Truck Tractors,"5/26/2023",1,0,0
+1000715,Trailers*,"5/26/2023",1,0,0
+1000716,Straight Trucks,"5/26/2023",1,0,0
+1000718,Straight Trucks,"5/26/2023",4,0,0
+1000719,Truck Tractors,"5/26/2023",1,0,0
+1000719,Trailers*,"5/26/2023",1,0,0
+1000720,Straight Trucks,"5/26/2023",4,0,0
+1000722,Straight Trucks,"5/26/2023",2,0,0
+1000723,Straight Trucks,"5/26/2023",1,0,0
+1000727,Truck Tractors,"5/26/2023",1,0,0
+1000728,Truck Tractors,"5/26/2023",3,0,0
+1000728,Trailers*,"5/26/2023",1,0,0
+1000732,Straight Trucks,"5/26/2023",1,0,0
+1000733,Straight Trucks,"5/26/2023",3,0,0
+1000735,Truck Tractors,"5/26/2023",5,0,0
+1000737,Truck Tractors,"5/26/2023",1,0,0
+1000738,Truck Tractors,"5/26/2023",2,0,0
+1000738,Trailers*,"5/26/2023",6,0,0
+1000741,Straight Trucks,"5/26/2023",1,0,0
+1000742,Trailers*,"5/26/2023",1,0,0
+1000743,Straight Trucks,"5/26/2023",2,0,0
+1000745,Straight Trucks,"5/26/2023",5,0,0
+1000745,Trailers*,"5/26/2023",1,0,0
+1000746,Truck Tractors,"5/26/2023",5,0,0
+1000746,Trailers*,"5/26/2023",7,0,0
+1000748,Straight Trucks,"5/26/2023",8,1,0
+1000751,Straight Trucks,"5/26/2023",1,0,0
+1000752,Straight Trucks,"5/26/2023",3,0,0
+1000753,Straight Trucks,"5/26/2023",5,0,0
+1000753,Truck Tractors,"5/26/2023",3,0,0
+1000753,Trailers*,"5/26/2023",10,0,0
+1000754,Straight Trucks,"5/26/2023",2,0,0
+1000756,Straight Trucks,"5/26/2023",1,0,0
+1000757,Straight Trucks,"5/26/2023",0,1,0
+1000760,Truck Tractors,"5/26/2023",1,0,0
+1000760,Trailers*,"5/26/2023",2,0,0
+1000761,Straight Trucks,"5/26/2023",1,0,0
+1000765,Straight Trucks,"5/26/2023",1,2,0
+1000765,Trailers*,"5/26/2023",3,0,0
+1000766,Truck Tractors,"5/26/2023",2,0,0
+1000766,Trailers*,"5/26/2023",2,0,0
+1000769,Straight Trucks,"5/26/2023",1,0,0
+1000770,Straight Trucks,"5/26/2023",1,0,0
+1000771,Straight Trucks,"5/26/2023",1,0,0
+1000772,Straight Trucks,"5/26/2023",1,0,0
+1000773,Straight Trucks,"5/26/2023",1,0,0
+1000775,Straight Trucks,"5/26/2023",2,1,0
+1000776,Straight Trucks,"5/26/2023",1,0,0
+1000776,Truck Tractors,"5/26/2023",1,0,0
+1000779,Straight Trucks,"5/26/2023",3,0,0
+1000781,Truck Tractors,"5/26/2023",2,0,0
+1000781,Trailers*,"5/26/2023",2,0,0
+1000786,Straight Trucks,"5/26/2023",1,0,0
+1000787,Truck Tractors,"5/26/2023",3,0,0
+1000787,Trailers*,"5/26/2023",4,0,0
+1000789,Truck Tractors,"5/26/2023",1,0,0
+1000790,Straight Trucks,"5/26/2023",2,0,0
+1000790,Truck Tractors,"5/26/2023",5,0,0
+1000790,Trailers*,"5/26/2023",2,0,0
+1000792,Straight Trucks,"5/26/2023",1,0,0
+1000793,Truck Tractors,"5/26/2023",0,1,0
+1000793,Trailers*,"5/26/2023",0,1,0
+1000797,Truck Tractors,"5/26/2023",1,0,0
+1000797,Trailers*,"5/26/2023",1,0,0
+1000798,Straight Trucks,"5/26/2023",1,0,0
+1000799,Truck Tractors,"5/26/2023",1,1,0
+1000799,Trailers*,"5/26/2023",1,0,0
+10008,Straight Trucks,"5/26/2023",485,0,0
+10008,Truck Tractors,"5/26/2023",11,0,0
+10008,Trailers*,"5/26/2023",11,0,0
+1000800,Straight Trucks,"5/26/2023",4,0,0
+1000800,Trailers*,"5/26/2023",2,0,0
+1000801,Straight Trucks,"5/26/2023",4,0,0
+1000801,Truck Tractors,"5/26/2023",4,0,0
+1000801,Trailers*,"5/26/2023",8,0,0
+1000801,Hazmat Cargo Tank Trucks,"5/26/2023",1,0,0
+1000803,Straight Trucks,"5/26/2023",2,0,0
+1000803,Truck Tractors,"5/26/2023",1,0,0
+1000803,Trailers*,"5/26/2023",3,0,0
+1000808,Truck Tractors,"5/26/2023",1,0,0
+1000808,Trailers*,"5/26/2023",2,0,0
+1000811,Straight Trucks,"5/26/2023",4,0,0
+1000815,Straight Trucks,"5/26/2023",1,0,0
+1000817,Truck Tractors,"5/26/2023",1,0,0
+1000817,Trailers*,"5/26/2023",2,1,0
+1000819,Straight Trucks,"5/26/2023",5,0,0
+1000822,Straight Trucks,"5/26/2023",1,0,0
+1000822,Trailers*,"5/26/2023",1,0,0
+1000827,Straight Trucks,"5/26/2023",1,0,0
+1000829,Straight Trucks,"5/26/2023",1,0,0
+1000829,Truck Tractors,"5/26/2023",12,0,0
+1000829,Trailers*,"5/26/2023",12,0,0
+1000843,Straight Trucks,"5/26/2023",1,0,0
+1000845,Straight Trucks,"5/26/2023",10,0,0
+1000849,Straight Trucks,"5/26/2023",2,0,0
+1000849,Truck Tractors,"5/26/2023",1,0,0
+1000849,Trailers*,"5/26/2023",2,0,0
+1000850,Straight Trucks,"5/26/2023",2,0,0
+1000851,Straight Trucks,"5/26/2023",1,0,0
+1000851,Truck Tractors,"5/26/2023",1,0,0
+1000851,Trailers*,"5/26/2023",2,0,0
+1000853,Truck Tractors,"5/26/2023",1,0,0
+1000853,Trailers*,"5/26/2023",1,0,0
+1000856,Straight Trucks,"5/26/2023",6,0,0
+1000856,Trailers*,"5/26/2023",3,0,0
+1000858,Straight Trucks,"5/26/2023",5,0,0
+1000858,Trailers*,"5/26/2023",1,0,0
+1000861,Straight Trucks,"5/26/2023",8,0,0
+1000861,Truck Tractors,"5/26/2023",1,0,0
+1000861,Trailers*,"5/26/2023",1,0,0
+1000862,Straight Trucks,"5/26/2023",1,0,0
+1000863,Straight Trucks,"5/26/2023",3,1,0
+1000865,Truck Tractors,"5/26/2023",2,0,0
+1000865,Trailers*,"5/26/2023",4,0,0
+1000867,Straight Trucks,"5/26/2023",5,0,0
+1000868,Straight Trucks,"5/26/2023",1,0,0
+1000869,Truck Tractors,"5/26/2023",2,0,0
+1000869,Trailers*,"5/26/2023",2,0,0
+1000871,Straight Trucks,"5/26/2023",1,0,0
+1000876,Straight Trucks,"5/26/2023",1,0,0
+1000876,Trailers*,"5/26/2023",1,0,0
+1000879,Truck Tractors,"5/26/2023",20,0,0
+1000879,Trailers*,"5/26/2023",20,0,0
+1000880,Straight Trucks,"5/26/2023",1,0,0
+1000882,Straight Trucks,"5/26/2023",4,0,0
+1000884,Straight Trucks,"5/26/2023",4,0,0
+1000884,Trailers*,"5/26/2023",4,0,0
+1000885,Straight Trucks,"5/26/2023",4,0,0
+1000885,Truck Tractors,"5/26/2023",1,0,0
+1000885,Trailers*,"5/26/2023",1,0,0
+1000886,Straight Trucks,"5/26/2023",2,0,0
+1000889,Straight Trucks,"5/26/2023",2,0,0
+1000889,Truck Tractors,"5/26/2023",1,0,0
+1000889,Trailers*,"5/26/2023",4,0,0
+1000892,Truck Tractors,"5/26/2023",1,0,0
+1000892,Trailers*,"5/26/2023",1,0,0
+1000893,Straight Trucks,"5/26/2023",0,5,0
+1000893,Truck Tractors,"5/26/2023",0,1,0
+1000893,Trailers*,"5/26/2023",0,1,0
+1000898,Truck Tractors,"5/26/2023",2,0,0
+1000899,Truck Tractors,"5/26/2023",1,0,0
+1000899,Trailers*,"5/26/2023",1,0,0
+1000900,Straight Trucks,"5/26/2023",2,0,0
+1000902,Truck Tractors,"5/26/2023",3,0,0
+1000902,Trailers*,"5/26/2023",22,0,0
+1000904,Truck Tractors,"5/26/2023",4,0,0
+1000904,Trailers*,"5/26/2023",10,0,0
+1000905,Straight Trucks,"5/26/2023",2,0,0
+1000906,Straight Trucks,"5/26/2023",1,0,0
+1000909,Straight Trucks,"5/26/2023",2,0,0
+100091,Straight Trucks,"5/26/2023",1,0,0
+100091,Truck Tractors,"5/26/2023",4,0,0
+100091,Trailers*,"5/26/2023",7,0,0
+1000910,Truck Tractors,"5/26/2023",1,0,0
+1000910,Trailers*,"5/26/2023",1,0,0
+1000911,Straight Trucks,"5/26/2023",1,0,0
+1000911,Trailers*,"5/26/2023",1,0,0
+1000913,Straight Trucks,"5/26/2023",2,1,2
+1000914,Straight Trucks,"5/26/2023",5,1,0
+1000916,Straight Trucks,"5/26/2023",2,0,0
+1000919,Straight Trucks,"5/26/2023",1,0,0
+1000924,Straight Trucks,"5/26/2023",1,0,0
+1000926,Straight Trucks,"5/26/2023",1,0,0
+1000926,Truck Tractors,"5/26/2023",2,0,0
+1000927,Straight Trucks,"5/26/2023",1,0,0
+1000928,Straight Trucks,"5/26/2023",3,0,0
+1000928,Trailers*,"5/26/2023",2,0,0
+1000929,Straight Trucks,"5/26/2023",1,0,0
+1000930,Straight Trucks,"5/26/2023",3,0,0
+1000931,Straight Trucks,"5/26/2023",3,2,0
+1000932,Straight Trucks,"5/26/2023",1,0,0
+1000932,Trailers*,"5/26/2023",1,0,0
+1000933,Straight Trucks,"5/26/2023",2,0,0
+1000935,Straight Trucks,"5/26/2023",1,0,0
+1000936,Straight Trucks,"5/26/2023",1,0,0
+1000936,Trailers*,"5/26/2023",1,0,0
+1000938,Straight Trucks,"5/26/2023",1,0,0
+1000938,Trailers*,"5/26/2023",1,0,0
+1000939,Straight Trucks,"5/26/2023",3,0,0
+1000939,Truck Tractors,"5/26/2023",2,0,0
+1000939,Trailers*,"5/26/2023",2,0,0
+1000939,Hazmat Cargo Tank Trucks,"5/26/2023",2,0,0
+1000940,Truck Tractors,"5/26/2023",1,0,0
+1000940,Trailers*,"5/26/2023",2,0,0
+1000943,Truck Tractors,"5/26/2023",1,0,0
+1000943,Trailers*,"5/26/2023",1,0,0
+1000944,Straight Trucks,"5/26/2023",1,0,0
+1000946,Straight Trucks,"5/26/2023",4,0,0
+1000946,Trailers*,"5/26/2023",3,0,0
+1000948,Straight Trucks,"5/26/2023",1,0,0
+1000949,Straight Trucks,"5/26/2023",5,0,0
+1000950,Straight Trucks,"5/26/2023",1,0,0
+1000951,Straight Trucks,"5/26/2023",1,0,0
+1000953,Straight Trucks,"5/26/2023",2,0,0
+1000958,Straight Trucks,"5/26/2023",6,0,0
+1000958,Trailers*,"5/26/2023",1,0,0
+1000959,Straight Trucks,"5/26/2023",1,0,0
+1000962,Straight Trucks,"5/26/2023",4,0,0
+1000963,Truck Tractors,"5/26/2023",0,2,0
+1000971,Straight Trucks,"5/26/2023",1,0,0
+1000972,Truck Tractors,"5/26/2023",2,0,0
+1000972,Trailers*,"5/26/2023",2,0,0
+1000976,Straight Trucks,"5/26/2023",5,0,0
+1000977,Straight Trucks,"5/26/2023",1,0,0
+1000978,Straight Trucks,"5/26/2023",5,0,0
+1000978,Truck Tractors,"5/26/2023",8,0,0
+1000978,Trailers*,"5/26/2023",8,0,0
+1000980,Straight Trucks,"5/26/2023",2,0,0
+1000980,Trailers*,"5/26/2023",8,0,0
+1000982,Straight Trucks,"5/26/2023",1,0,0
+1000984,Straight Trucks,"5/26/2023",1,0,0
+1000985,Straight Trucks,"5/26/2023",3,0,0
+1000986,Truck Tractors,"5/26/2023",7,0,0
+1000986,Trailers*,"5/26/2023",11,0,0
+1000989,Straight Trucks,"5/26/2023",10,0,0
+1000993,Straight Trucks,"5/26/2023",8,0,0
